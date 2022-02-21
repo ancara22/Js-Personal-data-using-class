@@ -1,0 +1,35 @@
+body {
+    width: 90vw;
+    margin: 0 auto;
+}
+
+table, table tr  {
+    box-shadow: 1px 1px 10px silver;
+    padding: 10px;
+}
+
+table td, input {
+    padding: 7px;
+}
+
+.table_input {
+    margin: 30px auto;
+}
+
+.submit {
+    height: 40px;
+    width: 90px;
+    background: linear-gradient(135deg, #bfe8f9 0%,#bfe8f9 44%,#2ab0ed 100%);
+}
+
+#personal {
+
+    height: 500px;
+   
+}
+
+.newTable {
+    width: 50px;
+    float: left;
+    margin-left: 10px;
+}
